@@ -32,4 +32,8 @@ async def urnlo(ctx):
 async def kakikama(ctx):
     await ctx.send('手コキフェラパイずりしながらイっちゃえ:heart:イっちゃえ:heart:って言ってくるドSで押しに弱いチ●ポ大好きっ娘ご奉仕生意気■リ乳ムチムチ色白正統派黒髪清楚美少女かきかまちゃんとイチャラブ本気▲ませ交尾コンドーム突き破り中出し乳ブルンブルンベロチュー体液汁だくだくべちゃ濡れセックスしたい')
 
+    @bot.command()
+    async def start(ctx):
+        await ctx.send('ONLINE')
+        
 bot.run(token)
