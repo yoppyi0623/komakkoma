@@ -19,7 +19,7 @@ async def ping(ctx):
 
 @bot.command()
 async def uso(ctx):
-    await ctx.send('なんだろう嘘つくのやめてもらっていいですか')
+    await ctx.send('なんだろう嘘つくのやめてもらっていいですか？')
     
 @bot.command()
 async def takuma(ctx):
