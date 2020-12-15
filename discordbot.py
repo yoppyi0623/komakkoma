@@ -25,7 +25,9 @@ async def uso(ctx):
 async def takuma(ctx):
     await ctx.send(':takumakaranopurezento:')
 
-    
+@bot.command()
+async def urnlo(ctx):
+    await ctx.send('子供がいるとは思えないほどの華奢で処女の欲求不満な敏感爆乳魅力ママのうるんるちゃんの愛情たっぷり朝一絞りたての至極の母乳小便をお口の中にぴゅっぴゅされながら義務教育を終えたい')   
 
 
 bot.run(token)
